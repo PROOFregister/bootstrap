@@ -21,7 +21,7 @@ This is the **first step** in setting up a HACKERverse® cybersecurity training 
 ### 1. Clone This Repository
 
 ```bash
-git clone https://github.com/YOUR-ORG/arena.bootstrap.git
+git clone [https://github.com/YOUR-ORG/arena.bootstrap.git](https://github.com/PROOFregister/bootstrap.git)
 cd arena.bootstrap
 ```
 
